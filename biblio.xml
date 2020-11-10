@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books name="My books">
+	<book bookid="1" isbn="785-984f" nbpage="150" pubdate="03/01/2002">
+		<title>Madame Bovary</title>
+		
+			<author>Flaubert</author>
+		
+		<categorie>Romans</categorie>
+	</book>
+	<book bookid="2" isbn="785-986f" nbpage="150" pubdate="03/01/2002">
+		<title>La fortune des Rougon</title>
+		
+			<author>Emile zola</author>
+		
+		<categorie>Roman</categorie>
+	</book>
+
+<book bookid="3" isbn="125-548g" nbpage="150" pubdate="19\12\2020">
+	<title>font</title>
+	<author>Jean</author>
+	<categorie>roman</categorie>
+</book>
+
+
+<book bookid="4" isbn="124-456f" nbpage="155" pubdate="12\4\2020">
+	<title>mama</title>
+	<author>lorient</author>
+	<categorie>roman</categorie>
+</book>
+<book bookid="5" isbn="125-487f" pubdate="19-12-2004"><title>Mari et Madi</title><categorie>Enfant</categorie><pubdate>19-12-2005</pubdate><isbn>1258-487k</isbn></book>
+
+
+<book bookid="6" isbn="1258-459f" pubdate="19-12-2005"><title>madame bovary </title><categorie>adulte </categorie><isbn>1258-48</isbn><pubdate>19-12-2005</pubdate></book></books>

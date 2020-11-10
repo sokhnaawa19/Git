@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Clients name="Les client">
+	<client idemprunt="1"  date="03/01/2002">
+	
+			<nomclient>Cauvin</nomclient>
+			<prenomclient>Fred </prenomclient>
+
+			<adresse>10 rue 22</adresse>
+
+			<tel>777101832</tel>
+
+		    <dureeCompte>1 an </dureeCompte>
+	</client>
+	
+</Clients>

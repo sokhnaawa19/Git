@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Emprunts name="Les emprunts">
+	<emprunt idemprunt="1"  date="03/01/2002">
+	
+			<idcEmprunt>1</idcEmprunt>
+
+		    <isbnlivre>1bn5</isbnlivre>
+
+		    <dureeEmprunt>1 mois</dureeEmprunt>
+	</emprunt>
+	
+</Emprunts>
